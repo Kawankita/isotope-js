@@ -1,3 +1,4 @@
+# **Created by rizky**
 
 ```markdown
 # Isotope JS Documentation
